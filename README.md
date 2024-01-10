@@ -4,7 +4,7 @@
 
 <h3 align="center">Welcome to my data-driven universe! 🚀 </h3>
 
-<h3><img align="center" height="380" src="https://camo.githubusercontent.com/5352b6b2b973a416adb9f788796e6e861e6ff286d2d83780df8ef7d90d4ca349/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966"  />
+<h3><img align="center" height="250" src="https://camo.githubusercontent.com/5352b6b2b973a416adb9f788796e6e861e6ff286d2d83780df8ef7d90d4ca349/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966"  />
 </h3>
 <h3 align="left">👨‍💻 As an Analytics Engineer, I excel in deriving meaningful insights from raw data. <br><br> My specialization lies in leveraging the modern data stack to transform raw data into actionable insights. The core of my data transformation journey involves key technologies such as DBT and Snowflake, where I orchestrate seamless processes to structure, clean, and prepare data for further analysis, and to create compelling visualizations for Tableau.
 <br><br><br><br> 🤝 If you have an exciting project in mind, let's connect and build together. I'm always eager to collaborate on impactful projects.</h3>
