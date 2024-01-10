@@ -52,7 +52,7 @@
 
 ###
 
-<h3 align="left">Learning:</h3>
+<h3 align="left">📚 Learning:</h3>
 
 ###
 
@@ -68,7 +68,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=MostafaNabilll&no-bg=true&no-frame=true&theme=dark_lover&margin-w=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=MostafaNabilll&no-bg=true&no-frame=true&theme=flat&row=1&margin-w=13" height="150" alt="trophy graph"  />
 </div>
 
 ###
