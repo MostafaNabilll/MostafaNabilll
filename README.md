@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hey, I'm Mostafa, a Data/Analytics Engineer!</h1>
+<h1 align="left">👋 Hey, I'm Mostafa, a Data Analytics Engineer!</h1>
 
 ###
 
@@ -67,9 +67,10 @@
 
 ###
 
-<h3 align="left">📊 GitHub Stats</h3>
+<h3 align="left">📊 Certifications</h3>
 
 <div align="center">
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9ef79398-2d4b-4df8-bdd1-50ac974f15df" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
   <img src="https://github-profile-trophy.vercel.app?username=MostafaNabilll&no-bg=true&no-frame=true&theme=flat&row=1&margin-w=13" height="150" alt="trophy graph"  />
 </div>
 
