@@ -54,30 +54,28 @@
 
 ###
 
+<h3 align="left">📊 Certifications</h3>
+
+<div align="center">
+  <img src="https://github.com/MostafaNabilll/MostafaNabilll/assets/60539423/18ea227e-3a1a-4aeb-b5ce-288756e5c958" height="150" alt="CCP"  />
+  <img width="12" />
+</div>
+
+###
+
 <h3 align="left">📚 In Progress</h3>
 
 ###
 
 <div align="center">
+  <img src="https://github.com/MostafaNabilll/MostafaNabilll/assets/60539423/1bb7c9cd-d4fd-4368-9ccf-31aea87e1b0e" height="150" alt="DEA logo"  />
+  <img width="12" />
+  
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" height="40" alt="Jenkis logo"  />
   <img width="12" />
+  
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" height="40" alt="kubernetes logo"  />
   <img width="12" />
-</div>
-
-###
-
-<h3 align="left">📊 Certifications</h3>
-
-<div align="center">
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9ef79398-2d4b-4df8-bdd1-50ac974f15df" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-  <img src="https://github-profile-trophy.vercel.app?username=MostafaNabilll&no-bg=true&no-frame=true&theme=flat&row=1&margin-w=13" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/MostafaNabilll/count.svg?"  />
 </div>
 
 ###
