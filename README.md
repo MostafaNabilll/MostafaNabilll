@@ -33,25 +33,38 @@
 ###
 
 <div align="center">
-    <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" height="40" alt="dbt logo"  />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" height="40" alt="dbt logo"  />
   <img width="12" />
-    <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" height="40" alt="airflow logo"  />
+  
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" height="40" alt="airflow logo"  />
   <img width="12" />
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" height="40" alt="tableau logo"  />
+  
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" height="40" alt="tableau logo"  />
   <img width="12" />
+  
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
+
+  <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" height="40" alt=" Terraform logo"  />
+  <img width="12" />
+  
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="40" alt="docker logo"  />
   <img width="12" />
+  
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
   <img width="12" />
+  
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
   <img width="12" />
+  
   <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" height="40" alt="jira logo"  />
   <img width="12" />
+  
   <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="40" alt="pandas logo"  />
   <img width="12" />
+  
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="40" alt="numpy logo"  />
+  <img width="12" />
 </div>
 
 ###
@@ -60,6 +73,8 @@
 
 <div align="center">
   <img src="https://github.com/MostafaNabilll/MostafaNabilll/assets/60539423/18ea227e-3a1a-4aeb-b5ce-288756e5c958" height="150" alt="CCP"  />
+  <img width="12" />
+  <img src="https://github.com/MostafaNabilll/MostafaNabilll/assets/60539423/bfcaba19-91c3-4d18-b458-da40f0caf5e2" height="150" alt="Terraform"  />
   <img width="12" />
 </div>
 
